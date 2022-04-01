@@ -34,4 +34,5 @@ jobs:
           heroku_app_name: fullstack-open-pokedex-22
           heroku_email: armi.kurri@edu.omnia.fi
           healthcheck: "https://fullstack-open-pokedex-22.herokuapp.com/health"
+          rollbackonhealthcheckfailed: true
           checkstring: "ok"
