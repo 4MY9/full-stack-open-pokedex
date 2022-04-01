@@ -33,3 +33,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: fullstack-open-pokedex-22
           heroku_email: armi.kurri@edu.omnia.fi
+          healthcheck: "https://fullstack-open-pokedex-22.herokuapp.com/health"
