@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-//Just testing my-new-branch
+//Just testing my-new-branch..
 
 const PokemonList = ({ pokemonList }) => {
   return (
