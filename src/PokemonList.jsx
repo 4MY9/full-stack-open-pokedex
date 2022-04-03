@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-//testing
+//testing...
 const PokemonList = ({ pokemonList }) => {
   return (
     <div className="list-container">
