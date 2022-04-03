@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 //testing...
-//testline
+//testline...
 const PokemonList = ({ pokemonList }) => {
   return (
     <div className="list-container">
